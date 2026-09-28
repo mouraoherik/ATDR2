@@ -1,0 +1,14 @@
+/home/herik/RiderProjects/ATDR2/Ex12/bin/Debug/net10.0/Ex12
+/home/herik/RiderProjects/ATDR2/Ex12/bin/Debug/net10.0/Ex12.deps.json
+/home/herik/RiderProjects/ATDR2/Ex12/bin/Debug/net10.0/Ex12.runtimeconfig.json
+/home/herik/RiderProjects/ATDR2/Ex12/bin/Debug/net10.0/Ex12.dll
+/home/herik/RiderProjects/ATDR2/Ex12/bin/Debug/net10.0/Ex12.pdb
+/home/herik/RiderProjects/ATDR2/Ex12/obj/Debug/net10.0/Ex12.GeneratedMSBuildEditorConfig.editorconfig
+/home/herik/RiderProjects/ATDR2/Ex12/obj/Debug/net10.0/Ex12.AssemblyInfoInputs.cache
+/home/herik/RiderProjects/ATDR2/Ex12/obj/Debug/net10.0/Ex12.AssemblyInfo.cs
+/home/herik/RiderProjects/ATDR2/Ex12/obj/Debug/net10.0/Ex12.csproj.CoreCompileInputs.cache
+/home/herik/RiderProjects/ATDR2/Ex12/obj/Debug/net10.0/Ex12.dll
+/home/herik/RiderProjects/ATDR2/Ex12/obj/Debug/net10.0/refint/Ex12.dll
+/home/herik/RiderProjects/ATDR2/Ex12/obj/Debug/net10.0/Ex12.pdb
+/home/herik/RiderProjects/ATDR2/Ex12/obj/Debug/net10.0/Ex12.genruntimeconfig.cache
+/home/herik/RiderProjects/ATDR2/Ex12/obj/Debug/net10.0/ref/Ex12.dll

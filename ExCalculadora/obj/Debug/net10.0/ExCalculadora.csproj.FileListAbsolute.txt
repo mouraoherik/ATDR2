@@ -1,0 +1,14 @@
+/home/herik/RiderProjects/ATDR2/ExCalculadora/bin/Debug/net10.0/ExCalculadora
+/home/herik/RiderProjects/ATDR2/ExCalculadora/bin/Debug/net10.0/ExCalculadora.deps.json
+/home/herik/RiderProjects/ATDR2/ExCalculadora/bin/Debug/net10.0/ExCalculadora.runtimeconfig.json
+/home/herik/RiderProjects/ATDR2/ExCalculadora/bin/Debug/net10.0/ExCalculadora.dll
+/home/herik/RiderProjects/ATDR2/ExCalculadora/bin/Debug/net10.0/ExCalculadora.pdb
+/home/herik/RiderProjects/ATDR2/ExCalculadora/obj/Debug/net10.0/ExCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/herik/RiderProjects/ATDR2/ExCalculadora/obj/Debug/net10.0/ExCalculadora.AssemblyInfoInputs.cache
+/home/herik/RiderProjects/ATDR2/ExCalculadora/obj/Debug/net10.0/ExCalculadora.AssemblyInfo.cs
+/home/herik/RiderProjects/ATDR2/ExCalculadora/obj/Debug/net10.0/ExCalculadora.csproj.CoreCompileInputs.cache
+/home/herik/RiderProjects/ATDR2/ExCalculadora/obj/Debug/net10.0/ExCalculadora.dll
+/home/herik/RiderProjects/ATDR2/ExCalculadora/obj/Debug/net10.0/refint/ExCalculadora.dll
+/home/herik/RiderProjects/ATDR2/ExCalculadora/obj/Debug/net10.0/ExCalculadora.pdb
+/home/herik/RiderProjects/ATDR2/ExCalculadora/obj/Debug/net10.0/ExCalculadora.genruntimeconfig.cache
+/home/herik/RiderProjects/ATDR2/ExCalculadora/obj/Debug/net10.0/ref/ExCalculadora.dll

@@ -1,0 +1,14 @@
+/home/herik/RiderProjects/ATDR2/ATDR2/bin/Debug/net10.0/ATDR2
+/home/herik/RiderProjects/ATDR2/ATDR2/bin/Debug/net10.0/ATDR2.deps.json
+/home/herik/RiderProjects/ATDR2/ATDR2/bin/Debug/net10.0/ATDR2.runtimeconfig.json
+/home/herik/RiderProjects/ATDR2/ATDR2/bin/Debug/net10.0/ATDR2.dll
+/home/herik/RiderProjects/ATDR2/ATDR2/bin/Debug/net10.0/ATDR2.pdb
+/home/herik/RiderProjects/ATDR2/ATDR2/obj/Debug/net10.0/ATDR2.GeneratedMSBuildEditorConfig.editorconfig
+/home/herik/RiderProjects/ATDR2/ATDR2/obj/Debug/net10.0/ATDR2.AssemblyInfoInputs.cache
+/home/herik/RiderProjects/ATDR2/ATDR2/obj/Debug/net10.0/ATDR2.AssemblyInfo.cs
+/home/herik/RiderProjects/ATDR2/ATDR2/obj/Debug/net10.0/ATDR2.csproj.CoreCompileInputs.cache
+/home/herik/RiderProjects/ATDR2/ATDR2/obj/Debug/net10.0/ATDR2.dll
+/home/herik/RiderProjects/ATDR2/ATDR2/obj/Debug/net10.0/refint/ATDR2.dll
+/home/herik/RiderProjects/ATDR2/ATDR2/obj/Debug/net10.0/ATDR2.pdb
+/home/herik/RiderProjects/ATDR2/ATDR2/obj/Debug/net10.0/ATDR2.genruntimeconfig.cache
+/home/herik/RiderProjects/ATDR2/ATDR2/obj/Debug/net10.0/ref/ATDR2.dll

@@ -1,0 +1,14 @@
+/home/herik/RiderProjects/ATDR2/Ex9ParteB/bin/Debug/net10.0/Ex9ParteB
+/home/herik/RiderProjects/ATDR2/Ex9ParteB/bin/Debug/net10.0/Ex9ParteB.deps.json
+/home/herik/RiderProjects/ATDR2/Ex9ParteB/bin/Debug/net10.0/Ex9ParteB.runtimeconfig.json
+/home/herik/RiderProjects/ATDR2/Ex9ParteB/bin/Debug/net10.0/Ex9ParteB.dll
+/home/herik/RiderProjects/ATDR2/Ex9ParteB/bin/Debug/net10.0/Ex9ParteB.pdb
+/home/herik/RiderProjects/ATDR2/Ex9ParteB/obj/Debug/net10.0/Ex9ParteB.GeneratedMSBuildEditorConfig.editorconfig
+/home/herik/RiderProjects/ATDR2/Ex9ParteB/obj/Debug/net10.0/Ex9ParteB.AssemblyInfoInputs.cache
+/home/herik/RiderProjects/ATDR2/Ex9ParteB/obj/Debug/net10.0/Ex9ParteB.AssemblyInfo.cs
+/home/herik/RiderProjects/ATDR2/Ex9ParteB/obj/Debug/net10.0/Ex9ParteB.csproj.CoreCompileInputs.cache
+/home/herik/RiderProjects/ATDR2/Ex9ParteB/obj/Debug/net10.0/Ex9ParteB.dll
+/home/herik/RiderProjects/ATDR2/Ex9ParteB/obj/Debug/net10.0/refint/Ex9ParteB.dll
+/home/herik/RiderProjects/ATDR2/Ex9ParteB/obj/Debug/net10.0/Ex9ParteB.pdb
+/home/herik/RiderProjects/ATDR2/Ex9ParteB/obj/Debug/net10.0/Ex9ParteB.genruntimeconfig.cache
+/home/herik/RiderProjects/ATDR2/Ex9ParteB/obj/Debug/net10.0/ref/Ex9ParteB.dll

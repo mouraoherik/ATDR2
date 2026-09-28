@@ -1,0 +1,14 @@
+/home/herik/RiderProjects/ATDR2/Exer10/bin/Debug/net10.0/Exer10
+/home/herik/RiderProjects/ATDR2/Exer10/bin/Debug/net10.0/Exer10.deps.json
+/home/herik/RiderProjects/ATDR2/Exer10/bin/Debug/net10.0/Exer10.runtimeconfig.json
+/home/herik/RiderProjects/ATDR2/Exer10/bin/Debug/net10.0/Exer10.dll
+/home/herik/RiderProjects/ATDR2/Exer10/bin/Debug/net10.0/Exer10.pdb
+/home/herik/RiderProjects/ATDR2/Exer10/obj/Debug/net10.0/Exer10.GeneratedMSBuildEditorConfig.editorconfig
+/home/herik/RiderProjects/ATDR2/Exer10/obj/Debug/net10.0/Exer10.AssemblyInfoInputs.cache
+/home/herik/RiderProjects/ATDR2/Exer10/obj/Debug/net10.0/Exer10.AssemblyInfo.cs
+/home/herik/RiderProjects/ATDR2/Exer10/obj/Debug/net10.0/Exer10.csproj.CoreCompileInputs.cache
+/home/herik/RiderProjects/ATDR2/Exer10/obj/Debug/net10.0/Exer10.dll
+/home/herik/RiderProjects/ATDR2/Exer10/obj/Debug/net10.0/refint/Exer10.dll
+/home/herik/RiderProjects/ATDR2/Exer10/obj/Debug/net10.0/Exer10.pdb
+/home/herik/RiderProjects/ATDR2/Exer10/obj/Debug/net10.0/Exer10.genruntimeconfig.cache
+/home/herik/RiderProjects/ATDR2/Exer10/obj/Debug/net10.0/ref/Exer10.dll
